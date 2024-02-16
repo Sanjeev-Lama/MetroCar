@@ -48,5 +48,10 @@ ORDER BY
 ### Performance Analysis  in Funnel (Percent From First vs. Percent From Previous)
 
 Funnel visualization is ideal for this analysis because it provides a clear visual representation of the customer journey through distinct stages, allowing for easy identification of conversion rates and drop-off points. By juxtaposing "Percent of Top" and "Percent of Previous" metrics, it offers valuable insights into user behavior and engagement patterns at each stage of the funnel. This visualization format enables stakeholders to quickly grasp the effectiveness of their marketing and conversion strategies, pinpoint areas for improvement, and make data-driven decisions to optimize the customer journey and drive business growth.
+![1](https://github.com/Sanjeev-Lama/MetroCar/assets/158605914/4da94514-93a4-49d5-9454-a2e1dc8f38d1) 
+
+### Platform Based Analysis Across Different Age Range
+
+offers a concise way to assess user engagement and conversion rates across different platforms and age groups. By employing the percent of top and percent of previous metrics on the left and right sides, respectively, stakeholders can easily discern trends and performance variations. This format facilitates quick comparisons between platforms and age segments, enabling targeted interventions and strategic adjustments to maximize user acquisition and retention efforts.
 
 

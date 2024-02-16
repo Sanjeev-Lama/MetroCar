@@ -1,5 +1,19 @@
 # MetroCar
 
+## Table of Content
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Business Questions](#business-questions)
+  - [Query Sample](#query-sample)
+- [Tableau Visualizations](#tableau-visualizations)
+  - [Performance Analysis In Funnel](#performance-analysis-in-funnel)
+  - [Platform Based Analysis Across Different Age Range](#platform-based-analysis-across-different-age-range)
+  - [Age Group Performance](#age-group-performance)
+  - [Ride Trends On Platforms Over Time](#ride-trends-on-platforms-over-time)
+- [Recommendations](#recommendations)
+- [Links](#links)
+
 ## Project Overview
 
 In this project, I delved into Metrocar's customer funnel, similar to renowned ride-sharing platforms like Uber and Lyft. Utilizing SQL for data analysis and Tableau for visualization, I unearthed crucial insights to refine Metrocar's user experience and increase conversion rates. Guided by stakeholders' inquiries, I identified key areas for optimization within the customer journey. My task was to conduct a thorough funnel analysis, presenting actionable recommendations supported by data-driven insights.
@@ -45,7 +59,7 @@ ORDER BY
 
 ## Tableau Visualizations
 
-### Performance Analysis  in Funnel (Percent From First vs. Percent From Previous)
+### Performance Analysis In Funnel
 
 Funnel visualization is ideal for this analysis because it provides a clear visual representation of the customer journey through distinct stages, allowing for easy identification of conversion rates and drop-off points. By juxtaposing "Percent of Top" and "Percent of Previous" metrics, it offers valuable insights into user behavior and engagement patterns at each stage of the funnel. This visualization format enables stakeholders to quickly grasp the effectiveness of their marketing and conversion strategies, pinpoint areas for improvement, and make data-driven decisions to optimize the customer journey and drive business growth.
 ![1](https://github.com/Sanjeev-Lama/MetroCar/assets/158605914/4da94514-93a4-49d5-9454-a2e1dc8f38d1) 
@@ -60,7 +74,7 @@ This visualization offers a concise way to assess user engagement and conversion
 Using a line chart for this visualization allows for a detailed examination of user engagement at each stage of the funnel across different age groups. By segmenting the data by age range and funnel step, stakeholders can identify performance trends and potential bottlenecks. The color-coded lines represent each funnel step, offering a clear visual representation of user progression. Leveraging the tooltip to display the percentage of the current value relative to the first value enhances interpretability, enabling stakeholders to assess relative performance effectively.
 ![3](https://github.com/Sanjeev-Lama/MetroCar/assets/158605914/69316896-97a9-4381-a8a8-b0a490888aef)
 
-### Ride Trends on Platforms Over Time 
+### Ride Trends On Platforms Over Time 
 
 
 Utilizing a line graph provides a comprehensive view of ride activity across different platforms over time. The graph's x-axis represents months, offering a temporal perspective, while the y-axis shows the total ride count. Segmenting the data by platform enables stakeholders to discern usage patterns specific to each platform. The color-coded lines distinguish between platforms, aiding in comparative analysis. Leveraging the label to display the total ride count enhances data interpretation, facilitating trend identification and performance evaluation.

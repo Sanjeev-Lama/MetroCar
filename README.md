@@ -53,5 +53,10 @@ Funnel visualization is ideal for this analysis because it provides a clear visu
 ### Platform Based Analysis Across Different Age Range
 
 offers a concise way to assess user engagement and conversion rates across different platforms and age groups. By employing the percent of top and percent of previous metrics on the left and right sides, respectively, stakeholders can easily discern trends and performance variations. This format facilitates quick comparisons between platforms and age segments, enabling targeted interventions and strategic adjustments to maximize user acquisition and retention efforts.
+![2](https://github.com/Sanjeev-Lama/MetroCar/assets/158605914/a03b4a3b-a8f8-4b35-a12a-7636093bc1d8)
+
+### Age Group Performance 
+
+Using a line chart for the 'Age Group Performance' visualization allows for a detailed examination of user engagement at each stage of the funnel across different age groups. By segmenting the data by age range and funnel step, stakeholders can identify performance trends and potential bottlenecks. The color-coded lines represent each funnel step, offering a clear visual representation of user progression. Leveraging the tooltip to display the percentage of the current value relative to the first value enhances interpretability, enabling stakeholders to assess relative performance effectively.
 
 

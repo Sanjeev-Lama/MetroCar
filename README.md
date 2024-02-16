@@ -64,4 +64,4 @@ Using a line chart for this visualization allows for a detailed examination of u
 
 
 Utilizing a line graph provides a comprehensive view of ride activity across different platforms over time. The graph's x-axis represents months, offering a temporal perspective, while the y-axis shows the total ride count. Segmenting the data by platform enables stakeholders to discern usage patterns specific to each platform. The color-coded lines distinguish between platforms, aiding in comparative analysis. Leveraging the label to display the total ride count enhances data interpretation, facilitating trend identification and performance evaluation.
-
+![4](https://github.com/Sanjeev-Lama/MetroCar/assets/158605914/c9bd376a-4ec3-4943-857a-de417562ebe1)

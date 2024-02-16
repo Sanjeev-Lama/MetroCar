@@ -52,11 +52,16 @@ Funnel visualization is ideal for this analysis because it provides a clear visu
 
 ### Platform Based Analysis Across Different Age Range
 
-offers a concise way to assess user engagement and conversion rates across different platforms and age groups. By employing the percent of top and percent of previous metrics on the left and right sides, respectively, stakeholders can easily discern trends and performance variations. This format facilitates quick comparisons between platforms and age segments, enabling targeted interventions and strategic adjustments to maximize user acquisition and retention efforts.
+This visualization offers a concise way to assess user engagement and conversion rates across different platforms and age groups. By employing the percent of top and percent of previous metrics on the left and right sides, respectively, stakeholders can easily discern trends and performance variations. This format facilitates quick comparisons between platforms and age segments, enabling targeted interventions and strategic adjustments to maximize user acquisition and retention efforts.
 ![2](https://github.com/Sanjeev-Lama/MetroCar/assets/158605914/a03b4a3b-a8f8-4b35-a12a-7636093bc1d8)
 
 ### Age Group Performance 
 
-Using a line chart for the 'Age Group Performance' visualization allows for a detailed examination of user engagement at each stage of the funnel across different age groups. By segmenting the data by age range and funnel step, stakeholders can identify performance trends and potential bottlenecks. The color-coded lines represent each funnel step, offering a clear visual representation of user progression. Leveraging the tooltip to display the percentage of the current value relative to the first value enhances interpretability, enabling stakeholders to assess relative performance effectively.
+Using a line chart for this visualization allows for a detailed examination of user engagement at each stage of the funnel across different age groups. By segmenting the data by age range and funnel step, stakeholders can identify performance trends and potential bottlenecks. The color-coded lines represent each funnel step, offering a clear visual representation of user progression. Leveraging the tooltip to display the percentage of the current value relative to the first value enhances interpretability, enabling stakeholders to assess relative performance effectively.
+![3](https://github.com/Sanjeev-Lama/MetroCar/assets/158605914/69316896-97a9-4381-a8a8-b0a490888aef)
 
+### Ride Trends on Platforms Over Time 
+
+
+Utilizing a line graph provides a comprehensive view of ride activity across different platforms over time. The graph's x-axis represents months, offering a temporal perspective, while the y-axis shows the total ride count. Segmenting the data by platform enables stakeholders to discern usage patterns specific to each platform. The color-coded lines distinguish between platforms, aiding in comparative analysis. Leveraging the label to display the total ride count enhances data interpretation, facilitating trend identification and performance evaluation.
 

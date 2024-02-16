@@ -65,3 +65,17 @@ Using a line chart for this visualization allows for a detailed examination of u
 
 Utilizing a line graph provides a comprehensive view of ride activity across different platforms over time. The graph's x-axis represents months, offering a temporal perspective, while the y-axis shows the total ride count. Segmenting the data by platform enables stakeholders to discern usage patterns specific to each platform. The color-coded lines distinguish between platforms, aiding in comparative analysis. Leveraging the label to display the total ride count enhances data interpretation, facilitating trend identification and performance evaluation.
 ![4](https://github.com/Sanjeev-Lama/MetroCar/assets/158605914/c9bd376a-4ec3-4943-857a-de417562ebe1)
+
+## Recommendations
+
+1. **Simplify Onboarding:** Simplify the app download and signup process to reduce friction and increase conversion rates. Consider offering personalized incentives to encourage more downloads to convert into signups seamlessly.
+
+2. **Optimize Ride Requests:** Streamline the ride request process to minimize drop-offs and improve user satisfaction. Enhance features such as real-time updates and smoother navigation to ensure a seamless experience for users.
+
+3. **Encourage Payment Completion:** Incentivize users to complete payments promptly after rides to boost revenue and enhance user engagement. Implement discounts or loyalty rewards to encourage timely transactions and foster positive user experiences.
+
+4. **Prompt User Reviews:** Prompt users to leave reviews post-ride by leveraging strategic prompts or incentives within the app. Positive reviews not only enhance brand reputation but also provide valuable feedback for service improvements.
+
+5. **Targeted Marketing Strategies:** Develop platform-specific marketing strategies based on performance data to optimize resource allocation. Tailor campaigns to resonate with the demographics and preferences of users across different platforms for maximum impact.
+
+## Links

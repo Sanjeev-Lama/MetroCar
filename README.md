@@ -79,3 +79,9 @@ Utilizing a line graph provides a comprehensive view of ride activity across dif
 5. **Targeted Marketing Strategies:** Develop platform-specific marketing strategies based on performance data to optimize resource allocation. Tailor campaigns to resonate with the demographics and preferences of users across different platforms for maximum impact.
 
 ## Links
+
+1. Help from [ChatGPT](https://chat.openai.com/share/053889bb-509a-4d8b-b6bd-af7f625e1eec)
+2. My Approach and Queries are [here](https://docs.google.com/document/d/1DpV52-KWK0GyTt8HloUf6Ge9Rv0JVoNFHcyPmhvqiBE/edit)
+3. Tableau Story Visualization [here](https://public.tableau.com/app/profile/sanjeev.lama/viz/ProjectMetroCar/MetroCarAnalysis?publish=yes)
+4. Video Presentatio
+5. Project Presentation here 

@@ -97,5 +97,5 @@ Utilizing a line graph provides a comprehensive view of ride activity across dif
 1. Help from [ChatGPT](https://chat.openai.com/share/053889bb-509a-4d8b-b6bd-af7f625e1eec)
 2. My Approach and Queries are [here](https://docs.google.com/document/d/1DpV52-KWK0GyTt8HloUf6Ge9Rv0JVoNFHcyPmhvqiBE/edit)
 3. Tableau Story Visualization [here](https://public.tableau.com/app/profile/sanjeev.lama/viz/ProjectMetroCar/MetroCarAnalysis?publish=yes)
-4. [Video Presentation](https://screenapp.io/app/#/shared/70dbb59c-182d-48c3-b010-7995ad47fdec)
+4. [Video Analysis](https://screenapp.io/app/#/shared/70dbb59c-182d-48c3-b010-7995ad47fdec)
 5. Project Presentation [here](https://github.com/Sanjeev-Lama/MetroCar/files/14319387/MetroCar.Project.1.pdf) 
